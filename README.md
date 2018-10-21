@@ -1,4 +1,4 @@
-# TRTL Services Python SQLite3 Demo
+# TRTL Services Node.JS SQLite3 Demo
 
 This example code demostrates how to use the [TRTL Services](https://trtl.services) Node.JS API wrapper to generate a valid [TurtleCoin](https://turtlecoin.lol) address and scan for incoming transactions. SQLlite3 is used as a data store in this example to simplify things, using the [knex.js](https://knexjs.org/) which supports most SQL oriented databasses.
 ## Requirements
